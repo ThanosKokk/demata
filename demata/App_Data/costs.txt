@@ -1,0 +1,861 @@
+Albania|Austria|38
+Albania|Belarus|58
+Albania|Belgium|61
+Albania|Bosnia and Herzegovina|28
+Albania|Bulgaria|29
+Albania|Croatia|34
+Albania|Cyprus|53
+Albania|Czech Republic|44
+Albania|Denmark|64
+Albania|Estonia|80
+Albania|Finland|84
+Albania|France|61
+Albania|Georgia|81
+Albania|Germany|52
+Albania|Greece|32
+Albania|Hungary|36
+Albania|Iceland|211
+Albania|Ireland|96
+Albania|Italy|34
+Albania|Latvia|68
+Albania|Liechtenstein|44
+Albania|Lithuania|59
+Albania|Luxembourg|55
+Albania|Macedonia|26
+Albania|Malta|37
+Albania|Moldova|42
+Albania|Monaco|44
+Albania|Montenegro|26
+Albania|Netherlands|64
+Albania|Norway|85
+Albania|Poland|49
+Albania|Portugal|103
+Albania|Romania|34
+Albania|Serbia|30
+Albania|Slovakia|38
+Albania|Slovenia|35
+Albania|Spain|76
+Albania|Sweden|78
+Albania|Switzerland|49
+Albania|Turkey|37
+Albania|United Kingdom|73
+Austria|Belarus|43
+Austria|Belgium|41
+Austria|Bosnia and Herzegovina|32
+Austria|Bulgaria|39
+Austria|Croatia|28
+Austria|Cyprus|80
+Austria|Czech Republic|28
+Austria|Denmark|40
+Austria|Estonia|53
+Austria|Finland|56
+Austria|France|44
+Austria|Georgia|95
+Austria|Germany|32
+Austria|Greece|51
+Austria|Hungary|27
+Austria|Iceland|132
+Austria|Ireland|64
+Austria|Italy|37
+Austria|Latvia|46
+Austria|Liechtenstein|32
+Austria|Lithuania|42
+Austria|Luxembourg|37
+Austria|Macedonia|38
+Austria|Malta|54
+Austria|Moldova|42
+Austria|Monaco|39
+Austria|Montenegro|35
+Austria|Netherlands|41
+Austria|Norway|53
+Austria|Poland|33
+Austria|Portugal|93
+Austria|Romania|39
+Austria|Serbia|32
+Austria|Slovakia|25
+Austria|Slovenia|28
+Austria|Spain|69
+Austria|Sweden|49
+Austria|Switzerland|38
+Austria|Turkey|51
+Austria|United Kingdom|49
+Belarus|Belgium|61
+Belarus|Bosnia and Herzegovina|51
+Belarus|Bulgaria|51
+Belarus|Croatia|49
+Belarus|Cyprus|86
+Belarus|Czech Republic|43
+Belarus|Denmark|42
+Belarus|Estonia|35
+Belarus|Finland|36
+Belarus|France|70
+Belarus|Georgia|72
+Belarus|Germany|42
+Belarus|Greece|69
+Belarus|Hungary|41
+Belarus|Iceland|137
+Belarus|Ireland|88
+Belarus|Italy|67
+Belarus|Latvia|30
+Belarus|Liechtenstein|57
+Belarus|Lithuania|26
+Belarus|Luxembourg|59
+Belarus|Macedonia|54
+Belarus|Malta|90
+Belarus|Moldova|37
+Belarus|Monaco|71
+Belarus|Montenegro|55
+Belarus|Netherlands|58
+Belarus|Norway|49
+Belarus|Poland|31
+Belarus|Portugal|162
+Belarus|Romania|44
+Belarus|Serbia|46
+Belarus|Slovakia|42
+Belarus|Slovenia|50
+Belarus|Spain|122
+Belarus|Sweden|39
+Belarus|Switzerland|67
+Belarus|Turkey|56
+Belarus|United Kingdom|72
+Belgium|Bosnia and Herzegovina|52
+Belgium|Bulgaria|65
+Belgium|Croatia|43
+Belgium|Cyprus|134
+Belgium|Czech Republic|36
+Belgium|Denmark|37
+Belgium|Estonia|61
+Belgium|Finland|63
+Belgium|France|28
+Belgium|Georgia|161
+Belgium|Germany|35
+Belgium|Greece|82
+Belgium|Hungary|46
+Belgium|Iceland|84
+Belgium|Ireland|38
+Belgium|Italy|47
+Belgium|Latvia|56
+Belgium|Liechtenstein|33
+Belgium|Lithuania|56
+Belgium|Luxembourg|26
+Belgium|Macedonia|62
+Belgium|Malta|71
+Belgium|Moldova|70
+Belgium|Monaco|39
+Belgium|Montenegro|57
+Belgium|Netherlands|26
+Belgium|Norway|45
+Belgium|Poland|47
+Belgium|Portugal|65
+Belgium|Romania|68
+Belgium|Serbia|53
+Belgium|Slovakia|42
+Belgium|Slovenia|41
+Belgium|Spain|52
+Belgium|Sweden|51
+Belgium|Switzerland|33
+Belgium|Turkey|86
+Belgium|United Kingdom|29
+Bosnia and Herzegovina|Bulgaria|30
+Bosnia and Herzegovina|Croatia|28
+Bosnia and Herzegovina|Cyprus|62
+Bosnia and Herzegovina|Czech Republic|37
+Bosnia and Herzegovina|Denmark|54
+Bosnia and Herzegovina|Estonia|68
+Bosnia and Herzegovina|Finland|72
+Bosnia and Herzegovina|France|53
+Bosnia and Herzegovina|Georgia|85
+Bosnia and Herzegovina|Germany|44
+Bosnia and Herzegovina|Greece|38
+Bosnia and Herzegovina|Hungary|30
+Bosnia and Herzegovina|Iceland|176
+Bosnia and Herzegovina|Ireland|82
+Bosnia and Herzegovina|Italy|33
+Bosnia and Herzegovina|Latvia|58
+Bosnia and Herzegovina|Liechtenstein|38
+Bosnia and Herzegovina|Lithuania|51
+Bosnia and Herzegovina|Luxembourg|47
+Bosnia and Herzegovina|Macedonia|29
+Bosnia and Herzegovina|Malta|42
+Bosnia and Herzegovina|Moldova|40
+Bosnia and Herzegovina|Monaco|40
+Bosnia and Herzegovina|Montenegro|26
+Bosnia and Herzegovina|Netherlands|54
+Bosnia and Herzegovina|Norway|71
+Bosnia and Herzegovina|Poland|42
+Bosnia and Herzegovina|Portugal|96
+Bosnia and Herzegovina|Romania|34
+Bosnia and Herzegovina|Serbia|27
+Bosnia and Herzegovina|Slovakia|32
+Bosnia and Herzegovina|Slovenia|30
+Bosnia and Herzegovina|Spain|71
+Bosnia and Herzegovina|Sweden|66
+Bosnia and Herzegovina|Switzerland|43
+Bosnia and Herzegovina|Turkey|41
+Bosnia and Herzegovina|United Kingdom|62
+Bulgaria|Croatia|36
+Bulgaria|Cyprus|49
+Bulgaria|Czech Republic|45
+Bulgaria|Denmark|63
+Bulgaria|Estonia|72
+Bulgaria|Finland|75
+Bulgaria|France|67
+Bulgaria|Georgia|68
+Bulgaria|Germany|52
+Bulgaria|Greece|32
+Bulgaria|Hungary|34
+Bulgaria|Iceland|215
+Bulgaria|Ireland|103
+Bulgaria|Italy|40
+Bulgaria|Latvia|61
+Bulgaria|Liechtenstein|48
+Bulgaria|Lithuania|52
+Bulgaria|Luxembourg|59
+Bulgaria|Macedonia|26
+Bulgaria|Malta|45
+Bulgaria|Moldova|35
+Bulgaria|Monaco|51
+Bulgaria|Montenegro|29
+Bulgaria|Netherlands|67
+Bulgaria|Norway|82
+Bulgaria|Poland|45
+Bulgaria|Portugal|122
+Bulgaria|Romania|28
+Bulgaria|Serbia|29
+Bulgaria|Slovakia|38
+Bulgaria|Slovenia|38
+Bulgaria|Spain|90
+Bulgaria|Sweden|73
+Bulgaria|Switzerland|55
+Bulgaria|Turkey|32
+Bulgaria|United Kingdom|78
+Croatia|Cyprus|73
+Croatia|Czech Republic|32
+Croatia|Denmark|46
+Croatia|Estonia|62
+Croatia|Finland|65
+Croatia|France|45
+Croatia|Georgia|96
+Croatia|Germany|37
+Croatia|Greece|45
+Croatia|Hungary|28
+Croatia|Iceland|148
+Croatia|Ireland|69
+Croatia|Italy|32
+Croatia|Latvia|53
+Croatia|Liechtenstein|32
+Croatia|Lithuania|48
+Croatia|Luxembourg|39
+Croatia|Macedonia|34
+Croatia|Malta|46
+Croatia|Moldova|43
+Croatia|Monaco|36
+Croatia|Montenegro|31
+Croatia|Netherlands|45
+Croatia|Norway|61
+Croatia|Poland|38
+Croatia|Portugal|87
+Croatia|Romania|38
+Croatia|Serbia|30
+Croatia|Slovakia|28
+Croatia|Slovenia|25
+Croatia|Spain|65
+Croatia|Sweden|58
+Croatia|Switzerland|37
+Croatia|Turkey|48
+Croatia|United Kingdom|52
+Cyprus|Czech Republic|92
+Cyprus|Denmark|126
+Cyprus|Estonia|126
+Cyprus|Finland|132
+Cyprus|France|138
+Cyprus|Georgia|51
+Cyprus|Germany|106
+Cyprus|Greece|41
+Cyprus|Hungary|71
+Cyprus|Iceland|441
+Cyprus|Ireland|214
+Cyprus|Italy|76
+Cyprus|Latvia|109
+Cyprus|Liechtenstein|98
+Cyprus|Lithuania|93
+Cyprus|Luxembourg|122
+Cyprus|Macedonia|51
+Cyprus|Malta|64
+Cyprus|Moldova|55
+Cyprus|Monaco|99
+Cyprus|Montenegro|57
+Cyprus|Netherlands|138
+Cyprus|Norway|162
+Cyprus|Poland|86
+Cyprus|Portugal|221
+Cyprus|Romania|49
+Cyprus|Serbia|59
+Cyprus|Slovakia|77
+Cyprus|Slovenia|78
+Cyprus|Spain|166
+Cyprus|Sweden|137
+Cyprus|Switzerland|110
+Cyprus|Turkey|38
+Cyprus|United Kingdom|162
+Czech Republic|Denmark|35
+Czech Republic|Estonia|49
+Czech Republic|Finland|51
+Czech Republic|France|40
+Czech Republic|Georgia|105
+Czech Republic|Germany|28
+Czech Republic|Greece|59
+Czech Republic|Hungary|31
+Czech Republic|Iceland|114
+Czech Republic|Ireland|56
+Czech Republic|Italy|41
+Czech Republic|Latvia|43
+Czech Republic|Liechtenstein|32
+Czech Republic|Lithuania|40
+Czech Republic|Luxembourg|34
+Czech Republic|Macedonia|44
+Czech Republic|Malta|60
+Czech Republic|Moldova|46
+Czech Republic|Monaco|40
+Czech Republic|Montenegro|41
+Czech Republic|Netherlands|36
+Czech Republic|Norway|46
+Czech Republic|Poland|32
+Czech Republic|Portugal|90
+Czech Republic|Romania|45
+Czech Republic|Serbia|37
+Czech Republic|Slovakia|28
+Czech Republic|Slovenia|31
+Czech Republic|Spain|68
+Czech Republic|Sweden|44
+Czech Republic|Switzerland|37
+Czech Republic|Turkey|58
+Czech Republic|United Kingdom|44
+Denmark|Estonia|39
+Denmark|Finland|40
+Denmark|France|43
+Denmark|Georgia|125
+Denmark|Germany|29
+Denmark|Greece|84
+Denmark|Hungary|43
+Denmark|Iceland|83
+Denmark|Ireland|49
+Denmark|Italy|59
+Denmark|Latvia|37
+Denmark|Liechtenstein|42
+Denmark|Lithuania|38
+Denmark|Luxembourg|38
+Denmark|Macedonia|63
+Denmark|Malta|88
+Denmark|Moldova|57
+Denmark|Monaco|54
+Denmark|Montenegro|59
+Denmark|Netherlands|34
+Denmark|Norway|32
+Denmark|Poland|35
+Denmark|Portugal|103
+Denmark|Romania|60
+Denmark|Serbia|52
+Denmark|Slovakia|40
+Denmark|Slovenia|45
+Denmark|Spain|81
+Denmark|Sweden|32
+Denmark|Switzerland|47
+Denmark|Turkey|79
+Denmark|United Kingdom|42
+Estonia|Finland|25
+Estonia|France|71
+Estonia|Georgia|99
+Estonia|Germany|44
+Estonia|Greece|98
+Estonia|Hungary|54
+Estonia|Iceland|101
+Estonia|Ireland|78
+Estonia|Italy|84
+Estonia|Latvia|28
+Estonia|Liechtenstein|65
+Estonia|Lithuania|32
+Estonia|Luxembourg|61
+Estonia|Macedonia|76
+Estonia|Malta|119
+Estonia|Moldova|55
+Estonia|Monaco|83
+Estonia|Montenegro|74
+Estonia|Netherlands|56
+Estonia|Norway|38
+Estonia|Poland|39
+Estonia|Portugal|170
+Estonia|Romania|64
+Estonia|Serbia|63
+Estonia|Slovakia|53
+Estonia|Slovenia|63
+Estonia|Spain|132
+Estonia|Sweden|30
+Estonia|Switzerland|74
+Estonia|Turkey|81
+Estonia|United Kingdom|68
+Finland|France|74
+Finland|Georgia|102
+Finland|Germany|46
+Finland|Greece|103
+Finland|Hungary|56
+Finland|Iceland|99
+Finland|Ireland|79
+Finland|Italy|88
+Finland|Latvia|29
+Finland|Liechtenstein|67
+Finland|Lithuania|34
+Finland|Luxembourg|63
+Finland|Macedonia|79
+Finland|Malta|125
+Finland|Moldova|57
+Finland|Monaco|86
+Finland|Montenegro|78
+Finland|Netherlands|58
+Finland|Norway|38
+Finland|Poland|41
+Finland|Portugal|175
+Finland|Romania|67
+Finland|Serbia|66
+Finland|Slovakia|55
+Finland|Slovenia|65
+Finland|Spain|137
+Finland|Sweden|30
+Finland|Switzerland|77
+Finland|Turkey|85
+Finland|United Kingdom|70
+France|Georgia|176
+France|Germany|40
+France|Greece|82
+France|Hungary|49
+France|Iceland|89
+France|Ireland|38
+France|Italy|45
+France|Latvia|65
+France|Liechtenstein|33
+France|Lithuania|65
+France|Luxembourg|28
+France|Macedonia|64
+France|Malta|67
+France|Moldova|76
+France|Monaco|36
+France|Montenegro|57
+France|Netherlands|31
+France|Norway|53
+France|Poland|53
+France|Portugal|56
+France|Romania|72
+France|Serbia|56
+France|Slovakia|45
+France|Slovenia|42
+France|Spain|44
+France|Sweden|59
+France|Switzerland|30
+France|Turkey|90
+France|United Kingdom|29
+Georgia|Germany|113
+Georgia|Greece|71
+Georgia|Hungary|84
+Georgia|Iceland|419
+Georgia|Ireland|249
+Georgia|Italy|116
+Georgia|Latvia|90
+Georgia|Liechtenstein|128
+Georgia|Lithuania|79
+Georgia|Luxembourg|149
+Georgia|Macedonia|75
+Georgia|Malta|117
+Georgia|Moldova|54
+Georgia|Monaco|144
+Georgia|Montenegro|83
+Georgia|Netherlands|159
+Georgia|Norway|148
+Georgia|Poland|84
+Georgia|Portugal|350
+Georgia|Romania|59
+Georgia|Serbia|78
+Georgia|Slovakia|92
+Georgia|Slovenia|102
+Georgia|Spain|259
+Georgia|Sweden|117
+Georgia|Switzerland|150
+Georgia|Turkey|52
+Georgia|United Kingdom|195
+Germany|Greece|69
+Germany|Hungary|36
+Germany|Iceland|98
+Germany|Ireland|52
+Germany|Italy|48
+Germany|Latvia|39
+Germany|Liechtenstein|35
+Germany|Lithuania|38
+Germany|Luxembourg|34
+Germany|Macedonia|52
+Germany|Malta|71
+Germany|Moldova|50
+Germany|Monaco|45
+Germany|Montenegro|48
+Germany|Netherlands|33
+Germany|Norway|39
+Germany|Poland|32
+Germany|Portugal|94
+Germany|Romania|51
+Germany|Serbia|43
+Germany|Slovakia|33
+Germany|Slovenia|36
+Germany|Spain|72
+Germany|Sweden|38
+Germany|Switzerland|40
+Germany|Turkey|66
+Germany|United Kingdom|41
+Greece|Hungary|46
+Greece|Iceland|283
+Greece|Ireland|129
+Greece|Italy|44
+Greece|Latvia|83
+Greece|Liechtenstein|59
+Greece|Lithuania|72
+Greece|Luxembourg|74
+Greece|Macedonia|32
+Greece|Malta|39
+Greece|Moldova|45
+Greece|Monaco|58
+Greece|Montenegro|34
+Greece|Netherlands|86
+Greece|Norway|112
+Greece|Poland|61
+Greece|Portugal|129
+Greece|Romania|37
+Greece|Serbia|38
+Greece|Slovakia|50
+Greece|Slovenia|48
+Greece|Spain|97
+Greece|Sweden|99
+Greece|Switzerland|65
+Greece|Turkey|33
+Greece|United Kingdom|98
+Hungary|Iceland|147
+Hungary|Ireland|73
+Hungary|Italy|38
+Hungary|Latvia|46
+Hungary|Liechtenstein|36
+Hungary|Lithuania|41
+Hungary|Luxembourg|42
+Hungary|Macedonia|35
+Hungary|Malta|53
+Hungary|Moldova|37
+Hungary|Monaco|43
+Hungary|Montenegro|33
+Hungary|Netherlands|47
+Hungary|Norway|57
+Hungary|Poland|33
+Hungary|Portugal|103
+Hungary|Romania|35
+Hungary|Serbia|29
+Hungary|Slovakia|26
+Hungary|Slovenia|30
+Hungary|Spain|76
+Hungary|Sweden|52
+Hungary|Switzerland|43
+Hungary|Turkey|45
+Hungary|United Kingdom|56
+Iceland|Ireland|57
+Iceland|Italy|169
+Iceland|Latvia|110
+Iceland|Liechtenstein|117
+Iceland|Lithuania|124
+Iceland|Luxembourg|93
+Iceland|Macedonia|212
+Iceland|Malta|252
+Iceland|Moldova|199
+Iceland|Monaco|135
+Iceland|Montenegro|195
+Iceland|Netherlands|78
+Iceland|Norway|67
+Iceland|Poland|123
+Iceland|Portugal|137
+Iceland|Romania|211
+Iceland|Serbia|177
+Iceland|Slovakia|135
+Iceland|Slovenia|141
+Iceland|Spain|132
+Iceland|Sweden|84
+Iceland|Switzerland|113
+Iceland|Turkey|275
+Iceland|United Kingdom|73
+Ireland|Italy|72
+Ireland|Latvia|76
+Ireland|Liechtenstein|52
+Ireland|Lithuania|80
+Ireland|Luxembourg|41
+Ireland|Macedonia|99
+Ireland|Malta|106
+Ireland|Moldova|109
+Ireland|Monaco|56
+Ireland|Montenegro|89
+Ireland|Netherlands|37
+Ireland|Norway|50
+Ireland|Poland|70
+Ireland|Portugal|63
+Ireland|Romania|107
+Ireland|Serbia|85
+Ireland|Slovakia|66
+Ireland|Slovenia|65
+Ireland|Spain|56
+Ireland|Sweden|62
+Ireland|Switzerland|48
+Ireland|Turkey|137
+Ireland|United Kingdom|31
+Italy|Latvia|72
+Italy|Liechtenstein|34
+Italy|Lithuania|65
+Italy|Luxembourg|43
+Italy|Macedonia|37
+Italy|Malta|36
+Italy|Moldova|55
+Italy|Monaco|31
+Italy|Montenegro|33
+Italy|Netherlands|51
+Italy|Norway|78
+Italy|Poland|52
+Italy|Portugal|71
+Italy|Romania|47
+Italy|Serbia|36
+Italy|Slovakia|38
+Italy|Slovenia|32
+Italy|Spain|53
+Italy|Sweden|77
+Italy|Switzerland|36
+Italy|Turkey|54
+Italy|United Kingdom|55
+Latvia|Liechtenstein|57
+Latvia|Lithuania|28
+Latvia|Luxembourg|55
+Latvia|Macedonia|64
+Latvia|Malta|102
+Latvia|Moldova|47
+Latvia|Monaco|72
+Latvia|Montenegro|63
+Latvia|Netherlands|52
+Latvia|Norway|39
+Latvia|Poland|33
+Latvia|Portugal|154
+Latvia|Romania|54
+Latvia|Serbia|54
+Latvia|Slovakia|45
+Latvia|Slovenia|54
+Latvia|Spain|119
+Latvia|Sweden|31
+Latvia|Switzerland|65
+Latvia|Turkey|69
+Latvia|United Kingdom|64
+Liechtenstein|Lithuania|54
+Liechtenstein|Luxembourg|30
+Liechtenstein|Macedonia|45
+Liechtenstein|Malta|52
+Liechtenstein|Moldova|56
+Liechtenstein|Monaco|30
+Liechtenstein|Montenegro|41
+Liechtenstein|Netherlands|35
+Liechtenstein|Norway|55
+Liechtenstein|Poland|43
+Liechtenstein|Portugal|68
+Liechtenstein|Romania|52
+Liechtenstein|Serbia|40
+Liechtenstein|Slovakia|33
+Liechtenstein|Slovenia|30
+Liechtenstein|Spain|51
+Liechtenstein|Sweden|57
+Liechtenstein|Switzerland|28
+Liechtenstein|Turkey|64
+Liechtenstein|United Kingdom|39
+Lithuania|Luxembourg|54
+Lithuania|Macedonia|56
+Lithuania|Malta|90
+Lithuania|Moldova|40
+Lithuania|Monaco|68
+Lithuania|Montenegro|55
+Lithuania|Netherlands|53
+Lithuania|Norway|44
+Lithuania|Poland|30
+Lithuania|Portugal|151
+Lithuania|Romania|47
+Lithuania|Serbia|47
+Lithuania|Slovakia|41
+Lithuania|Slovenia|49
+Lithuania|Spain|115
+Lithuania|Sweden|35
+Lithuania|Switzerland|63
+Lithuania|Turkey|59
+Lithuania|United Kingdom|66
+Luxembourg|Macedonia|56
+Luxembourg|Malta|65
+Luxembourg|Moldova|65
+Luxembourg|Monaco|36
+Luxembourg|Montenegro|51
+Luxembourg|Netherlands|28
+Luxembourg|Norway|47
+Luxembourg|Poland|45
+Luxembourg|Portugal|66
+Luxembourg|Romania|62
+Luxembourg|Serbia|49
+Luxembourg|Slovakia|39
+Luxembourg|Slovenia|37
+Luxembourg|Spain|51
+Luxembourg|Sweden|51
+Luxembourg|Switzerland|30
+Luxembourg|Turkey|79
+Luxembourg|United Kingdom|31
+Macedonia|Malta|41
+Macedonia|Moldova|38
+Macedonia|Monaco|47
+Macedonia|Montenegro|27
+Macedonia|Netherlands|65
+Macedonia|Norway|84
+Macedonia|Poland|47
+Macedonia|Portugal|111
+Macedonia|Romania|31
+Macedonia|Serbia|29
+Macedonia|Slovakia|37
+Macedonia|Slovenia|36
+Macedonia|Spain|82
+Macedonia|Sweden|75
+Macedonia|Switzerland|51
+Macedonia|Turkey|35
+Macedonia|United Kingdom|75
+Malta|Moldova|65
+Malta|Monaco|44
+Malta|Montenegro|39
+Malta|Netherlands|77
+Malta|Norway|117
+Malta|Poland|73
+Malta|Portugal|83
+Malta|Romania|53
+Malta|Serbia|46
+Malta|Slovakia|54
+Malta|Slovenia|46
+Malta|Spain|64
+Malta|Sweden|112
+Malta|Switzerland|53
+Malta|Turkey|54
+Malta|United Kingdom|82
+Moldova|Monaco|65
+Moldova|Montenegro|41
+Moldova|Netherlands|69
+Moldova|Norway|71
+Moldova|Poland|38
+Moldova|Portugal|158
+Moldova|Romania|29
+Moldova|Serbia|36
+Moldova|Slovakia|40
+Moldova|Slovenia|45
+Moldova|Spain|117
+Moldova|Sweden|59
+Moldova|Switzerland|66
+Moldova|Turkey|35
+Moldova|United Kingdom|85
+Monaco|Montenegro|42
+Monaco|Netherlands|42
+Monaco|Norway|70
+Monaco|Poland|54
+Monaco|Portugal|57
+Monaco|Romania|57
+Monaco|Serbia|44
+Monaco|Slovakia|40
+Monaco|Slovenia|34
+Monaco|Spain|43
+Monaco|Sweden|72
+Monaco|Switzerland|28
+Monaco|Turkey|68
+Monaco|United Kingdom|44
+Montenegro|Netherlands|59
+Montenegro|Norway|79
+Montenegro|Poland|45
+Montenegro|Portugal|100
+Montenegro|Romania|34
+Montenegro|Serbia|28
+Montenegro|Slovakia|35
+Montenegro|Slovenia|33
+Montenegro|Spain|74
+Montenegro|Sweden|72
+Montenegro|Switzerland|46
+Montenegro|Turkey|39
+Montenegro|United Kingdom|68
+Netherlands|Norway|41
+Netherlands|Poland|45
+Netherlands|Portugal|72
+Netherlands|Romania|69
+Netherlands|Serbia|55
+Netherlands|Slovakia|43
+Netherlands|Slovenia|43
+Netherlands|Spain|57
+Netherlands|Sweden|46
+Netherlands|Switzerland|36
+Netherlands|Turkey|88
+Netherlands|United Kingdom|29
+Norway|Poland|45
+Norway|Portugal|121
+Norway|Romania|78
+Norway|Serbia|69
+Norway|Slovakia|53
+Norway|Slovenia|60
+Norway|Spain|98
+Norway|Sweden|30
+Norway|Switzerland|60
+Norway|Turkey|102
+Norway|United Kingdom|47
+Poland|Portugal|122
+Poland|Romania|42
+Poland|Serbia|39
+Poland|Slovakia|33
+Poland|Slovenia|39
+Poland|Spain|92
+Poland|Sweden|38
+Poland|Switzerland|50
+Poland|Turkey|54
+Poland|United Kingdom|56
+Portugal|Romania|139
+Portugal|Serbia|106
+Portugal|Slovakia|96
+Portugal|Slovenia|82
+Portugal|Spain|32
+Portugal|Sweden|140
+Portugal|Switzerland|58
+Portugal|Turkey|162
+Portugal|United Kingdom|61
+Romania|Serbia|31
+Romania|Slovakia|38
+Romania|Slovenia|41
+Romania|Spain|103
+Romania|Sweden|67
+Romania|Switzerland|60
+Romania|Turkey|31
+Romania|United Kingdom|82
+Serbia|Slovakia|31
+Serbia|Slovenia|32
+Serbia|Spain|79
+Serbia|Sweden|62
+Serbia|Switzerland|46
+Serbia|Turkey|38
+Serbia|United Kingdom|65
+Slovakia|Slovenia|28
+Slovakia|Spain|71
+Slovakia|Sweden|50
+Slovakia|Switzerland|39
+Slovakia|Turkey|49
+Slovakia|United Kingdom|51
+Slovenia|Spain|61
+Slovenia|Sweden|57
+Slovenia|Switzerland|35
+Slovenia|Turkey|51
+Slovenia|United Kingdom|49
+Spain|Sweden|111
+Spain|Switzerland|43
+Spain|Turkey|120
+Spain|United Kingdom|50
+Sweden|Switzerland|63
+Sweden|Turkey|86
+Sweden|United Kingdom|55
+Switzerland|Turkey|74
+Switzerland|United Kingdom|37
+Turkey|United Kingdom|104
