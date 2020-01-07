@@ -16,14 +16,16 @@
 <body>
 
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-light border-bottom shadow-sm">
-        <h5 class="my-0 mr-md-auto font-weight-normal">Demata.gr</h5>
-        <nav class="my-2 my-md-0 mr-md-3">
-            <a class="p-2 text-dark" href="#">I need a Quote!</a>
-            <a class="p-2 text-dark" href="#">Tracking</a>
-            <a class="p-2 text-dark" href="#">Our Services</a>
-            <a class="p-2 text-dark" href="#">Basket<i class="fa fa-shopping-cart"></i></a>
+        <h5 class="my-0 mr-md-auto font-weight-normal">@Html.ActionLink("Demata.gr", "Index", "Home")</h5>
+        <nav Class="my-2 my-md-0 mr-md-3">
+            <a Class="p-2 text-dark" href="#">I need a Quote!</a>
+            <a Class="p-2 text-dark" href="#">Tracking</a>
+            <a Class="p-2 text-dark" href="#">Our Services</a>
+            <a Class="p-2 text-dark" href="#">Basket<i class="fa fa-shopping-cart"></i></a>
         </nav>
-        <a class="btn btn-outline-primary" href="#">Sign up</a>
+        <button type="button" class="btn btn-outline-primary" data-toggle="modal" data-target="#signinModal">
+            Sign In
+        </button>
     </div>
 
 
@@ -69,6 +71,43 @@
         </footer>
     </div>
 
+    <div class="modal fade" id="signinModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Sign In demata.gr</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form id="signinForm" action="" method="post">
+                        <div class="form-group">
+                            <input type="text" class="form-control" id="username" aria-describedby="usernameHelp" placeholder="Username" />
+                            <small id="usernameHelp" class="form-text text-muted">Please provide your username.</small>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="password" aria-describedby="passwordHelp" placeholder="Password" />
+                            <small id="passwordHelp" class="form-text text-muted">Please provide your password.</small>
+                        </div>
+                        <div class="form-group">
+                            <input type="checkbox" class="form-check-input" id="rememberme" aria-describedby="remembermeHelp" />
+                            <label class="form-check-label" for="rememberme">
+                                Check to remember you next time.
+                            </label>                            
+                        </div>
+                        <div class="form-group">
+                            <input type="button" class="btn btn-outline-primary btn-lg btn-block" id="submit" value="Log in" />                           
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>                    
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         Holder.addTheme('thumb', {
             bg: '#55595c',
@@ -76,7 +115,7 @@
             text: 'Thumbnail'
         });
     </script>
-   
+
     @RenderSection("scripts", required:=False)
 </body>
 </html>

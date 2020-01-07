@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<AddressValidationRequest xml:lang="en-US">
+   <Request>
+      <TransactionReference>
+         <CustomerContext>Customer Data</CustomerContext>
+         <XpciVersion>1.0001</XpciVersion>
+      </TransactionReference>
+      <RequestAction>AV</RequestAction>
+   </Request>
+   <Address>
+      <City>MIAMI</City>
+      <StateProvinceCode>FL</StateProvinceCode>
+   </Address>
+</AddressValidationRequest>
